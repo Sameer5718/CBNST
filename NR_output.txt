@@ -1,0 +1,12 @@
+	Enter error value: 0.001
+
+        Enter two guesses: 2
+		3
+
+        The value of x0 is: 2.00
+        Number of iterations are: 1
+        root: 2.333333  Value of function: 0.703703
+        Number of iterations are: 2
+        root: 2.280555  Value of function: 0.019351
+        Number of iterations are: 3
+        root: 2.279020  Value of function: 0.000016
