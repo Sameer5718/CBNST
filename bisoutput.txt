@@ -1,0 +1,13 @@
+enter the value of x0 and x1:
+1
+2
+number of iterations = 1
+root = 1.500000
+value function = -1.625000
+
+enter the value of x0 and x1:
+1
+3
+number of iterations = 1
+root = 2.000000
+value function = 1.000000
