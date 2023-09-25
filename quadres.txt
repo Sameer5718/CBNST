@@ -1,0 +1,11 @@
+enter the coeffients:
+1
+4
+2
+root 1 = -0.585786 and root 2 = -3.414214
+
+enter the coeffients:
+2
+1
+4
+real part = -0.250000 and imag part = 1.391941
